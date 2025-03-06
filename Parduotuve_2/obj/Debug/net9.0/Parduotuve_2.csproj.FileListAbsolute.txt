@@ -12,3 +12,4 @@ C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\refi
 C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.pdb
 C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.genruntimeconfig.cache
 C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\ref\Parduotuve_2.dll
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parduotuve_2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+850945f4558c52127df5ad93bf0d88e5af286223")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parduotuve_2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parduotuve_2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
