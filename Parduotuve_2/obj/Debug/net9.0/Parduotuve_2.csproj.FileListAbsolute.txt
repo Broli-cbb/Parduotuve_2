@@ -1,0 +1,14 @@
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.AssemblyInfoInputs.cache
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.AssemblyInfo.cs
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.csproj.CoreCompileInputs.cache
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\bin\Debug\net9.0\Parduotuve_2.exe
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\bin\Debug\net9.0\Parduotuve_2.deps.json
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\bin\Debug\net9.0\Parduotuve_2.runtimeconfig.json
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\bin\Debug\net9.0\Parduotuve_2.dll
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\bin\Debug\net9.0\Parduotuve_2.pdb
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.dll
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\refint\Parduotuve_2.dll
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.pdb
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\Parduotuve_2.genruntimeconfig.cache
+C:\Users\studentas\RiderProjects\Parduotuve_2\Parduotuve_2\obj\Debug\net9.0\ref\Parduotuve_2.dll

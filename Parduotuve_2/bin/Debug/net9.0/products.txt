@@ -1,0 +1,3 @@
+Product: Obuolys, Price: 1,00 €, Expiration Date: 2222-12-22
+Product: Telefonas, Price: 100,00 €, Warranty: 46 months
+Product: Marskiniai, Price: 23,00 €, Size: Small
